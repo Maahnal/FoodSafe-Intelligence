@@ -28,7 +28,7 @@ The prototype is demonstrated live on a laptop and must remain functional withou
 
 ## Capabilities and Constraints
 
-Core capabilities include a product evidence check, searchable sample catalogue, local sample-barcode lookup, regulatory search and filters, incident details, entity profiles, relationships and analytics. There are 18 official cached FIRA incidents, 27 normalized entities, and a separate catalogue of 36 illustrative products in 12 categories. Product checks compare product terms, categories and origins using Python rules. Supplier, batch and barcode data do not contribute a regulatory-match score. The final demo runs locally without accounts or cloud services.
+Core capabilities include a product evidence check, searchable sample catalogue, local sample-barcode lookup, regulatory search and filters, incident details, entity profiles, relationships and analytics. There are 18 official cached FIRA incidents, 27 normalized entities, and a separate catalogue of 36 illustrative products in 12 categories. Product checks compare product terms, categories and origins using Python rules. Supplier, batch and barcode data do not contribute a regulatory-match score. The application runs locally without accounts or cloud services.
 
 ## Brand Commitments
 

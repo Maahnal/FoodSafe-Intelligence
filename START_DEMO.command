@@ -17,7 +17,7 @@ if ! command -v python3 >/dev/null 2>&1; then
 fi
 
 echo "Starting FoodSafe Intelligence…"
-echo "The final demo will open at http://127.0.0.1:4173"
+echo "The application will open at http://127.0.0.1:4173"
 echo "Keep this window open during the demo. Press Control-C to stop."
 echo ""
 
