@@ -1,0 +1,9 @@
+.DS_Store
+__MACOSX/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log

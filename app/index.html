@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="FoodSafe Intelligence — India-focused food alert evidence for regulators, retailers, restaurants and hotels.">
+  <title>FoodSafe Intelligence</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to intelligence workspace</a>
+  <aside class="side-rail" id="side-rail" aria-label="Primary navigation">
+    <div class="brand-block">
+      <a class="brand-mark" href="#/overview" aria-label="FoodSafe Intelligence overview">
+        <svg viewBox="0 0 36 36" aria-hidden="true"><path d="M18 3 31 8v9c0 8.1-5.2 13.2-13 16C10.2 30.2 5 25.1 5 17V8l13-5Z"/><path d="m12 18 4 4 8-9"/></svg>
+        <span><strong>FoodSafe</strong><small>Intelligence</small></span>
+      </a>
+    </div>
+
+    <nav class="rail-nav">
+      <a href="#/overview" data-route="overview">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 13h6V4H4v9Zm0 7h6v-4H4v4Zm10 0h6v-9h-6v9Zm0-12h6V4h-6v4Z"/></svg>
+        <span>Overview</span>
+      </a>
+      <a href="#/check" data-route="check">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 4 6v5c0 5 3.1 8.2 8 10 4.9-1.8 8-5 8-10V6l-8-3Z"/><path d="m8.5 12 2.2 2.2 4.8-5"/></svg>
+        <span>Safety check</span>
+      </a>
+      <a href="#/search" data-route="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
+        <span>Search records</span>
+      </a>
+      <a href="#/explore" data-route="explore">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="m7.3 10.9 9.4-4.8M7.3 13.1l9.4 4.8"/></svg>
+        <span>Relationships</span>
+      </a>
+      <a href="#/analytics" data-route="analytics">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10m6 10V4m6 16v-7m4 7H2"/></svg>
+        <span>Analytics</span>
+      </a>
+    </nav>
+
+  </aside>
+
+  <header class="mobile-bar">
+    <a class="mobile-brand" href="#/overview">FoodSafe <span>Intelligence</span></a>
+    <button class="icon-button" id="menu-toggle" type="button" aria-label="Open navigation" aria-controls="side-rail" aria-expanded="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </header>
+
+  <main class="workspace">
+    <div class="utility-bar">
+      <div class="crumb" id="crumb">Intelligence overview</div>
+    </div>
+    <div id="app" tabindex="-1" aria-live="polite">
+      <div class="loading-state"><span></span><p>Preparing the intelligence workspace…</p></div>
+    </div>
+    <footer class="colophon">
+      <span>FoodSafe Intelligence / Honours Mini Project</span>
+      <span>Business checks · Regulatory evidence · India</span>
+      <span>Final demonstration build / v1.0</span>
+    </footer>
+  </main>
+
+  <div class="scrim" id="scrim" hidden></div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>

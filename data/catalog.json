@@ -1,0 +1,49 @@
+[
+  {"id":"grain-basmati-rice","name":"Basmati rice","category":"Grains & cereals","originCountry":"India","supplier":"Demo Retail Supplier","batch":"GR-BA-101","barcode":"8901000000001","keywords":["basmati","rice","chawal"],"illustrative":true},
+  {"id":"grain-whole-wheat-atta","name":"Whole wheat atta","category":"Grains & cereals","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"GR-AT-102","barcode":"8901000000002","keywords":["atta","wheat flour","gehun"],"illustrative":true},
+  {"id":"grain-rolled-oats","name":"Rolled oats","category":"Grains & cereals","originCountry":"Australia","supplier":"Demo Import Supplier","batch":"GR-OA-103","barcode":"8901000000003","keywords":["oats","rolled oats","cereal"],"illustrative":true},
+
+  {"id":"pulse-chana-dal","name":"Chana dal","category":"Pulses & dals","originCountry":"India","supplier":"Demo Retail Supplier","batch":"PU-CH-201","barcode":"8901000000004","keywords":["chana dal","split chickpea","gram dal"],"illustrative":true},
+  {"id":"pulse-toor-dal","name":"Toor dal","category":"Pulses & dals","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"PU-TO-202","barcode":"8901000000005","keywords":["toor dal","arhar dal","pigeon pea"],"illustrative":true},
+  {"id":"pulse-rajma","name":"Rajma","category":"Pulses & dals","originCountry":"India","supplier":"Demo Retail Supplier","batch":"PU-RA-203","barcode":"8901000000006","keywords":["rajma","kidney beans","red beans"],"illustrative":true},
+
+  {"id":"spice-haldi-powder","name":"Haldi powder","category":"Spices & condiments","originCountry":"India","supplier":"Demo Kitchen Supplier","batch":"SP-HA-301","barcode":"8901000000007","keywords":["haldi","turmeric","turmeric powder"],"illustrative":true},
+  {"id":"spice-jeera-whole","name":"Jeera whole","category":"Spices & condiments","originCountry":"India","supplier":"Demo Kitchen Supplier","batch":"SP-JE-302","barcode":"8901000000008","keywords":["jeera","cumin","cumin seeds"],"illustrative":true},
+  {"id":"spice-cinnamon-buds","name":"Cinnamon flower buds","category":"Spices & condiments","originCountry":"Sri Lanka","supplier":"Demo Import Supplier","batch":"SP-CI-303","barcode":"8901000000009","keywords":["cinnamon","dalchini","cinnamon flower bud"],"illustrative":true},
+
+  {"id":"oil-mustard","name":"Mustard oil","category":"Edible oils","originCountry":"India","supplier":"Demo Retail Supplier","batch":"OI-MU-401","barcode":"8901000000010","keywords":["mustard oil","sarson oil"],"illustrative":true},
+  {"id":"oil-groundnut","name":"Groundnut oil","category":"Edible oils","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"OI-GR-402","barcode":"8901000000011","keywords":["groundnut oil","peanut oil"],"illustrative":true},
+  {"id":"oil-sunflower","name":"Sunflower oil","category":"Edible oils","originCountry":"Ukraine","supplier":"Demo Import Supplier","batch":"OI-SU-403","barcode":"8901000000012","keywords":["sunflower oil","edible oil"],"illustrative":true},
+
+  {"id":"dairy-paneer","name":"Paneer","category":"Dairy products","originCountry":"India","supplier":"Demo Cold-Chain Supplier","batch":"DA-PA-501","barcode":"8901000000013","keywords":["paneer","cottage cheese"],"illustrative":true},
+  {"id":"dairy-milk-powder","name":"Milk powder","category":"Dairy products","originCountry":"New Zealand","supplier":"Demo Import Supplier","batch":"DA-MI-502","barcode":"8901000000014","keywords":["milk powder","dairy powder"],"illustrative":true},
+  {"id":"dairy-ghee","name":"Desi ghee","category":"Dairy products","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"DA-GH-503","barcode":"8901000000015","keywords":["ghee","clarified butter","desi ghee"],"illustrative":true},
+
+  {"id":"produce-apples","name":"Fresh apples","category":"Fruits & vegetables","originCountry":"Turkey","supplier":"Demo Fresh Produce Supplier","batch":"FV-AP-601","barcode":"8901000000016","keywords":["apple","fresh apples","red delicious"],"illustrative":true},
+  {"id":"produce-mango-pulp","name":"Mango pulp","category":"Fruits & vegetables","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"FV-MA-602","barcode":"8901000000017","keywords":["mango pulp","aam","fruit pulp"],"illustrative":true},
+  {"id":"produce-dry-dates","name":"Dry dates","category":"Fruits & vegetables","originCountry":"United Arab Emirates","supplier":"Demo Import Supplier","batch":"FV-DA-603","barcode":"8901000000018","keywords":["dates","khajur","dry dates"],"illustrative":true},
+
+  {"id":"nut-pistachio","name":"Pistachio kernel","category":"Nuts & seeds","originCountry":"Iran","supplier":"Demo Import Supplier","batch":"NS-PI-701","barcode":"8901000000019","keywords":["pistachio","pista","pistachio kernel"],"illustrative":true},
+  {"id":"nut-cashew","name":"Cashew kernels","category":"Nuts & seeds","originCountry":"Vietnam","supplier":"Demo Retail Supplier","batch":"NS-CA-702","barcode":"8901000000020","keywords":["cashew","kaju","cashew kernels"],"illustrative":true},
+  {"id":"nut-almond","name":"Almonds","category":"Nuts & seeds","originCountry":"United States","supplier":"Demo Hospitality Supplier","batch":"NS-AL-703","barcode":"8901000000021","keywords":["almond","badam","almonds"],"illustrative":true},
+
+  {"id":"beverage-tea-bags","name":"Assam tea bags","category":"Beverages","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"BE-TE-801","barcode":"8901000000022","keywords":["tea bag","chai","assam tea"],"illustrative":true},
+  {"id":"beverage-malt","name":"Malt drink powder","category":"Beverages","originCountry":"Malaysia","supplier":"Demo Import Supplier","batch":"BE-MA-802","barcode":"8901000000023","keywords":["malt drink","milo powder","beverage powder"],"illustrative":true},
+  {"id":"beverage-coffee","name":"Instant coffee","category":"Beverages","originCountry":"India","supplier":"Demo Retail Supplier","batch":"BE-CO-803","barcode":"8901000000024","keywords":["coffee","instant coffee","beverage"],"illustrative":true},
+
+  {"id":"snack-fruit-jelly","name":"Fruit jelly cups","category":"Confectionery & snacks","originCountry":"Indonesia","supplier":"Demo Import Supplier","batch":"CS-JE-901","barcode":"8901000000025","keywords":["fruit jelly","jelly cup","confectionery"],"illustrative":true},
+  {"id":"snack-choco-toffee","name":"Choco bean toffee","category":"Confectionery & snacks","originCountry":"Bangladesh","supplier":"Demo Import Supplier","batch":"CS-TO-902","barcode":"8901000000026","keywords":["choco bean toffee","toffee","chocolate candy"],"illustrative":true},
+  {"id":"snack-banana-chips","name":"Banana chips","category":"Confectionery & snacks","originCountry":"India","supplier":"Demo Retail Supplier","batch":"CS-BA-903","barcode":"8901000000027","keywords":["banana chips","namkeen","snack"],"illustrative":true},
+
+  {"id":"supplement-amino-energy","name":"Amino energy supplement","category":"Health supplements","originCountry":"United States","supplier":"Demo Wellness Supplier","batch":"HS-AM-1001","barcode":"8901000000028","keywords":["amino energy","nutrition supplement","sports supplement"],"illustrative":true},
+  {"id":"supplement-whey","name":"Whey protein powder","category":"Health supplements","originCountry":"United States","supplier":"Demo Wellness Supplier","batch":"HS-WH-1002","barcode":"8901000000029","keywords":["whey protein","protein powder","nutrition supplement"],"illustrative":true},
+  {"id":"supplement-vitamins","name":"Multivitamin gummies","category":"Health supplements","originCountry":"Canada","supplier":"Demo Wellness Supplier","batch":"HS-VI-1003","barcode":"8901000000030","keywords":["multivitamin","vitamin gummies","health supplement"],"illustrative":true},
+
+  {"id":"seafood-roasted-seaweed","name":"Roasted seaweed","category":"Seafood & seaweed","originCountry":"South Korea","supplier":"Demo Import Supplier","batch":"SS-SE-1101","barcode":"8901000000031","keywords":["roasted seaweed","gimbab","seaweed"],"illustrative":true},
+  {"id":"seafood-frozen-prawns","name":"Frozen prawns","category":"Seafood & seaweed","originCountry":"India","supplier":"Demo Cold-Chain Supplier","batch":"SS-PR-1102","barcode":"8901000000032","keywords":["prawns","shrimp","frozen seafood"],"illustrative":true},
+  {"id":"seafood-dried-anchovy","name":"Dried anchovy","category":"Seafood & seaweed","originCountry":"Thailand","supplier":"Demo Import Supplier","batch":"SS-AN-1103","barcode":"8901000000033","keywords":["anchovy","dried fish","seafood"],"illustrative":true},
+
+  {"id":"packaged-noodles","name":"Instant masala noodles","category":"Packaged foods","originCountry":"India","supplier":"Demo Retail Supplier","batch":"PF-NO-1201","barcode":"8901000000034","keywords":["instant noodles","masala noodles","packaged food"],"illustrative":true},
+  {"id":"packaged-ketchup","name":"Tomato ketchup","category":"Packaged foods","originCountry":"India","supplier":"Demo Hospitality Supplier","batch":"PF-KE-1202","barcode":"8901000000035","keywords":["tomato ketchup","sauce","packaged food"],"illustrative":true},
+  {"id":"packaged-sweet-corn","name":"Canned sweet corn","category":"Packaged foods","originCountry":"Thailand","supplier":"Demo Import Supplier","batch":"PF-CO-1203","barcode":"8901000000036","keywords":["sweet corn","canned corn","packaged food"],"illustrative":true}
+]
