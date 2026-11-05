@@ -1,4 +1,4 @@
-# FoodSafe Intelligence — Final Demo
+# FoodSafe Intelligence
 
 A working frontend and Node.js/Python backend for India-focused food alert investigation and product evidence checks. Designed for supermarket and kirana owners, hotel and restaurant procurement teams, compliance teams and food-safety analysts.
 

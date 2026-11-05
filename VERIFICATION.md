@@ -1,4 +1,4 @@
-# Final demo verification
+# Project verification
 
 Verified on 1 November 2026.
 
