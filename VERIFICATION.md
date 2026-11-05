@@ -1,6 +1,6 @@
 # Project verification
 
-Verified on 1 November 2026.
+Re-verified on 5 November 2026 with the complete automated suite and data validator.
 
 - 39 automated tests pass, including API requests, Python matching and regression cases.
 - Dataset validation: 18 official cached FIRA records, 27 normalized entities.
@@ -14,7 +14,7 @@ Verified on 1 November 2026.
 
 ## Implementation choices
 
-- This project directory is not a Git repository; changes were made in place and delivered as folders and a ZIP rather than a branch or commits.
+- The project is published at https://github.com/Maahnal/FoodSafe-Intelligence on the main branch. The public source was prepared from the supplied project ZIP.
 - Product overlap uses the larger meaningful-token set as its denominator. This reduces generic false matches but may omit loosely similar names.
 - The interface shows official source provenance instead of an uncalibrated extraction-confidence percentage.
 - Barcode identifiers resolve illustrative local catalogue items only. Supplier and batch details remain user-entered context and are not verified by the incident dataset.
